@@ -1,3 +1,5 @@
+//This code is for using variables very basically
+
 public class Variable {
     public static void main(String args[]) {
         int x = 10; // integer variable
