@@ -1,3 +1,5 @@
+//This code provides the sum of n natural numbers given by the user 
+
 import java.util.*;
 public class naturalnumsum {
     public static void main (String args[]){
