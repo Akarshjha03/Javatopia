@@ -1,3 +1,4 @@
+//This code uses switch conditional statements
 import java.util.*;
 
 public class Buttonpress {
