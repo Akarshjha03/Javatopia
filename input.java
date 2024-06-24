@@ -1,3 +1,5 @@
+//This shows how to take input form user in java
+
 import java.util.*;
 
 public class input {
