@@ -1,3 +1,5 @@
+//This is used for printing hollow rectangle pattern 
+
 public class hollowrectangle {
     public static void main (String args[]){
         int n = 4;
