@@ -1,3 +1,5 @@
+//This code uses string methods 
+
 public class Substr {
     public static void main(String args[]){
     String name1 = "AKARSH and JHA";
