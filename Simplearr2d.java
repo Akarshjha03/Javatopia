@@ -1,3 +1,5 @@
+//This code represents simple 2d array
+
 public class Simplearr2d {
     public static void main(String args[]){
         int marks[][]= {{100,99,98},{98,99,100}};
