@@ -1,3 +1,5 @@
+//this code prints the inverted half pyramid
+
 public class invertedhpyramid {
     public static void main(String args[]){
         int n = 5;
