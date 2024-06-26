@@ -1,3 +1,5 @@
+//This creates and uses a functions to add 2 numbers and calulate the sum
+
 import java.util.*;
 public class SumFunction {
     public static int CalculateSum(int a,int b){
