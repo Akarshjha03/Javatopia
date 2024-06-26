@@ -1,3 +1,4 @@
+//This code creates and uses a function to multiply variables
 import java.util.*;
 public class multiplyfunction {
     public static int CalculateProduct(int a,int b){
