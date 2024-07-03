@@ -1,6 +1,6 @@
 public class traverse_array { //This code shows how array elements can printed using loop
     public static void main (String args[]){
-        int arr[] = new int [10];
+        int arr[] = new int [10]; 
         arr[0]=1;
         arr[1]=2;
         arr[2]=3;
