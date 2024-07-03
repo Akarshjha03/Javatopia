@@ -1,4 +1,4 @@
-public class traverse_array {
+public class traverse_array { //This code shows how array elements can printed using loop
     public static void main (String args[]){
         int arr[] = new int [10];
         arr[0]=1;
