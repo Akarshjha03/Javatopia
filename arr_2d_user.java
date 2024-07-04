@@ -14,9 +14,12 @@ public class arr_2d_user {
         // Input
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
+                System.out.print("Enter element for [" + i + "][" + j + "]: ");
                 num[i][j] = sc.nextInt();
             }
         }
+
+        System.out.println("Input complete. Now printing the array.");
 
         // Output
         System.out.println("The elements of the array are:");
