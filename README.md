@@ -1,8 +1,8 @@
-# Java Basics
+# Javatopia
 
 ## About
 
-Welcome to the Java Basics repository! This project aims to help beginners learn the fundamentals of Java programming. It covers essential topics such as:
+Welcome to the Javatopia repository! This project aims to help beginners learn the fundamentals of Java programming. It covers essential topics such as:
 
 - Basic Syntax
 - Variables
@@ -16,6 +16,8 @@ Welcome to the Java Basics repository! This project aims to help beginners learn
 - Arrays
 - Functions
 - Basic I/O Operations
+- OOP Concepts
+- Exception Handling
 
 ## Table of Contents
 
@@ -32,6 +34,8 @@ Welcome to the Java Basics repository! This project aims to help beginners learn
 11. [Arrays](#arrays)
 12. [Functions](#functions)
 13. [Basic I/O Operations](#basic-io-operations)
+14. [OOPS](#OOPS)
+15. [Exception Handeling](#Exception-Handeling)
 
 ## Introduction
 
@@ -84,6 +88,12 @@ Understand the concept of functions in Java and how to use them effectively.
 ## Basic I/O Operations
 
 Learn how to perform basic input and output operations in Java.
+
+## OOP Concepts
+Discover the principles of Object-Oriented Programming (OOP) in Java, including classes, objects, inheritance, polymorphism, encapsulation, and abstraction...more.
+
+## Exception Handling
+Learn how to handle errors and exceptions in Java using try-catch blocks, throw statements, and custom exceptions.
 
 ## How to Use
 
