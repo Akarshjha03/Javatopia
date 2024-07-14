@@ -1,5 +1,5 @@
 public class Concate {
-    public static void main(String[] args) {
+    public static void main(String[] args) { //This function joins strings
         String s1 = "AKARSH";
         String s2 = "JHA";
         String s3 = s1.concat(s2);
