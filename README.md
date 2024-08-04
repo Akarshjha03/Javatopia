@@ -1,7 +1,5 @@
 # Javatopia
 
-## About
-
 Welcome to the Javatopia repository! This project aims to help beginners learn the fundamentals of Java programming. It covers essential topics such as:
 
 - Basic Syntax
